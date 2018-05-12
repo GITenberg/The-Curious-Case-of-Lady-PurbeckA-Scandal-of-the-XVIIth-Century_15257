@@ -1,0 +1,33 @@
+_repo: The-Curious-Case-of-Lady-PurbeckA-Scandal-of-the-XVIIth-Century_15257
+_version: 0.1.0
+alternative_title:
+- 'The Curious Case of Lady Purbeck: A Scandal of the Seventeenth Century'
+- 'The Curious Case of Lady Purbeck: A Scandal of the 17th Century'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longueville, Thomas
+    aliases:
+    - De Longueville, Thomas
+    - Longueville, Thomas de
+    birthdate: 1844
+    deathdate: 1922
+    gutenberg_agent_id: '5953'
+    url: http://www.gutenberg.org/2009/agents/5953
+description: ''
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Trials (Adultery) -- Great Britain'
+- !lcsh 'Purbeck, Frances (Coke) Villiers, viscountess, -1645'
+title: 'The Curious Case of Lady Purbeck: A Scandal of the XVIIth Century'
+url: http://www.gutenberg.org/ebooks/15257
